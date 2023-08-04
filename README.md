@@ -1,5 +1,5 @@
 # Netflix
 
-"Responsive Netflix-inspired front-end page with HTML, CSS, and Bootstrap. Sleek design, intuitive UI, and dynamic carousels for seamless browsing. Enjoy movies, TV shows, and documentaries across all devices!" 
+ Discover my CSS, HTML, and Bootstrap rendition, faithfully echoing the site's content and design. Engage with dynamic elements, responsive layout, and familiar visuals, encapsulating the true essence of Netflix.
 
 https://ruhba.github.io/Netflix/
